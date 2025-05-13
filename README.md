@@ -53,9 +53,8 @@ To use this schema, you need a running MySQL server instance and a MySQL client 
 
 An Entity-Relationship Diagram (ERD) visually represents the database tables (entities), their attributes (columns), and the relationships between them.
 
-Below is a textual representation of the Schema:
+Below is a link to the graphical representation of the Schema:
 
-
-
+https://drive.google.com/file/d/17SLGDkmpW0SPxdly3iEWkv_N42FIwqpL/view?usp=sharing
 
 ---End--
