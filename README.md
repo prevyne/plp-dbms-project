@@ -51,7 +51,7 @@ To use this schema, you need a running MySQL server instance and a MySQL client 
 
 ## Entity-Relationship Diagram (ERD)
 
-Below is a link to the visual representation of the ERD created with Mermaid editor.
+Below is a link to the visual representation of the ERD created with Mermaid Chart.
 
 https://www.mermaidchart.com/raw/bb376a0a-bfa1-4faa-b1c4-bfe048efaa24?theme=light&version=v0.1&format=svg
 
