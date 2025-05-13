@@ -53,6 +53,6 @@ To use this schema, you need a running MySQL server instance and a MySQL client 
 
 Below is a link to the visual representation of the ERD created with Mermaid editor.
 
-https://www.mermaidchart.com/app/projects/2fa9c8a2-1203-49bb-9c6e-75f961cfba9f/diagrams/bb376a0a-bfa1-4faa-b1c4-bfe048efaa24/version/v0.1/edit
+https://www.mermaidchart.com/raw/bb376a0a-bfa1-4faa-b1c4-bfe048efaa24?theme=light&version=v0.1&format=svg
 
 ---End--
